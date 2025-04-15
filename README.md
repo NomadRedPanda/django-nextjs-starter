@@ -136,6 +136,7 @@ Follow these steps to get your development environment up and running:
 
 ## Project Structure
 
+```
 google-docs-django-nextjs/
 ├── backend/ # Django project root
 │ ├── your_django_app/ # Your Django app(s)
@@ -178,6 +179,7 @@ google-docs-django-nextjs/
 ├── .gitignore # Git ignore rules
 ├── rav.yaml # rav task definitions (if used)
 └── README.md # Project documentation
+```
 
 ## Authentication Flow
 
